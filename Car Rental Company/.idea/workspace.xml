@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82d1236c-76b6-4e2a-96b7-47c48bb57d85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Car Rental Company.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1183336_1180085_1171422_1173139.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/AdminDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/FirstPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/InformationCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/InformationCarLIst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/NewReservation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/Office.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1183336_1180085_1171422_1173139/sample/ViewCar.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,11 +80,23 @@
       <workItem from="1626474816719" duration="129000" />
       <workItem from="1626475252657" duration="252000" />
       <workItem from="1629320571876" duration="416000" />
-      <workItem from="1647764786099" duration="2532000" />
+      <workItem from="1647764786099" duration="3357000" />
     </task>
+    <task id="LOCAL-00001" summary="virsion 1.0">
+      <created>1647767512468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647767512468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="virsion 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="virsion 1.0" />
   </component>
 </project>
