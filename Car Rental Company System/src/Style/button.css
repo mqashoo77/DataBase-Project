@@ -1,0 +1,41 @@
+
+
+.button {
+
+    -fx-font: 16px "Fantasy";
+    -fx-padding: 10;
+     -fx-font-weight: bold;
+    -fx-background-color: #FAEDF0;
+    -fx-border-radius: 30px;
+    -fx-background-radius:30px ;
+    -fx-border-color: #EC255A;
+    -fx-border-width: 2px;
+
+}
+
+
+.button:hover{
+
+    -fx-font-weight: bold;
+    -fx-font: 16px "Fantasy";
+    -fx-padding: 10;
+    -fx-background-color: #EC255A;
+    -fx-border-radius: 30px;
+    -fx-background-radius:30px ;
+    -fx-border-color: #EC255A;
+    -fx-border-width: 2px;
+}
+
+.button:pressed{
+
+    -fx-font-weight: bold;
+    -fx-font: 16px "Fantasy";
+    -fx-padding: 10;
+    -fx-background-color: #a11132;
+    -fx-border-radius: 30px;
+    -fx-background-radius:30px ;
+    -fx-border-color: #a11132;
+    -fx-border-width: 2px;
+
+}
+
